@@ -311,6 +311,7 @@ section img {
 /*-------------------------Media Queries */
 
 @media screen and (max-width: 970px) {
+
   .www-nav-items {
     margin: 0px 10px;
   }
@@ -354,6 +355,7 @@ section img {
 }
 
 @media screen and (max-width: 770px) {
+
   footer {
     margin: 0px 50px;
   }
@@ -366,6 +368,11 @@ section img {
     margin: 0;
   }
 
+.md-m-0 {
+  margin: 0;
+  padding: 0;
+}
+
 .intro-para-first,
 .intro-para-second,
 .intro-para-third {
@@ -376,6 +383,7 @@ section img {
 }
 
 @media screen and (max-width: 320px) {
+
   .navbar-brand,
   .www-nav-items,
   .list-inline-item,
