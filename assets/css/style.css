@@ -365,7 +365,6 @@ section img {
   .list-inline-item:not(:last-child) {
     margin: 0;
   }
-}
 
 .intro-para-first,
 .intro-para-second,
@@ -373,4 +372,54 @@ section img {
   margin: 40px 0px;
   padding: 0;
 }
+
+}
+
+@media screen and (max-width: 320px) {
+  .navbar-brand,
+  .www-nav-items,
+  .list-inline-item,
+  .www-nav {
+    margin: 0;
+  }
+
+  .intro-para {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 90%;
+  }
+
+  .intro-para-first {
+    margin-top: 20px;
+  }
+
+  .intro-para-third {
+    margin-bottom: 20px;
+  }
+
+  .intro-para-first,
+  .intro-para-second,
+  .intro-para-third {
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 25px;
+  }
+  .history {
+    margin: 0;
+    width: 100%;
+  }
+
+  .people {
+    margin: 0;
+    width: 100%;
+  }
+
+  #people-title {
+    margin-top: 50px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
 }
