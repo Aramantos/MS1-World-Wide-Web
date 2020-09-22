@@ -33,6 +33,18 @@ a {
   text-decoration: underline;
 }
 
+.background {
+  background: url("../images/internet.jpeg") no-repeat no-repeat center center;
+/* CREDIT: Image: https://www.educationworld.in/30th-anniversary-of-the-world-wide-web-or-www/ */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: rgba(34, 33, 33, 1);
+  max-width: 100%;
+  height: auto;
+}
+
 /*-------------------------Header */
 
 .title {
