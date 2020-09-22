@@ -352,3 +352,25 @@ section img {
     font-size: 1.8rem;
   }
 }
+
+@media screen and (max-width: 770px) {
+  footer {
+    margin: 0px 50px;
+  }
+
+  #people-title {
+    margin-top: 50px;
+  }
+
+  .list-inline-item:not(:last-child) {
+    margin: 0;
+  }
+}
+
+.intro-para-first,
+.intro-para-second,
+.intro-para-third {
+  margin: 40px 0px;
+  padding: 0;
+}
+}
