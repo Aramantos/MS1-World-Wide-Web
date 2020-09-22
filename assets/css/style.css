@@ -79,6 +79,20 @@ a {
   text-decoration: underline;
 }
 
+.list-inline-item,
+.www-nav-items {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand {
+  margin: 0 !important;
+}
+
+.www-nav-items {
+  margin: 0px 10px;
+}
+
 /*-------------------------Footer */
 
 footer {
