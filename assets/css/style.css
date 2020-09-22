@@ -233,6 +233,18 @@ section p {
   margin-top: 25px;
 }
 
+section img {
+  object-fit: fill;
+}
+
+.people-pic {
+  padding: 5px;
+}
+
+#dave-raggett {
+  background-color: #fafafa;
+}
+
 /*-------------------------History */
 
 /*-------------------------Media Queries */
