@@ -3,7 +3,7 @@
 /*-------------------------Colours */
 
 .bg-color {
-    background-color: rgba(34, 33, 33, 1);
+  background-color: rgba(34, 33, 33, 1);
 }
 
 .title-color {
@@ -309,3 +309,46 @@ section img {
 }
 
 /*-------------------------Media Queries */
+
+@media screen and (max-width: 970px) {
+  .www-nav-items {
+    margin: 0px 10px;
+  }
+
+  .intro-para {
+    margin: 20px;
+  }
+
+  .intro-para-first {
+    font-size: 150%;
+    margin-top: 20px;
+  }
+
+  .intro-para-second {
+    font-size: 125%;
+  }
+
+  .intro-para-third {
+    font-size: 125%;
+    margin-bottom: 20px;
+  }
+
+  .history {
+    margin: 0;
+    width: 100%;
+  }
+
+  .people {
+    margin: 0;
+    width: 100%;
+    padding: 0;
+  }
+
+  #people-title {
+    margin-top: 50px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+}
