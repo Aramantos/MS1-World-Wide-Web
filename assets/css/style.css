@@ -247,4 +247,65 @@ section img {
 
 /*-------------------------History */
 
+.history {
+  font-family: "Titillium", sans-serif;
+  letter-spacing: 1.5px;
+  text-align: center;
+  font-size: 110%;
+  color: #2b2b2b;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 5px;
+  border-color: #000;
+  margin: 50px 150px;
+  list-style: none;
+  padding: 50px;
+}
+
+.history-heading {
+  color: #000000;
+  margin-bottom: 25px;
+  font-size: 200%;
+}
+
+.timeline-item {
+  padding: 4em 2em 0em 2em;
+  position: relative;
+  color: #000000;
+  border-left: 1px solid;
+}
+
+.timeline-item p {
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.timeline-item::before {
+  content: attr(data-dates);
+  position: absolute;
+  left: 2.5em;
+  top: 3em;
+  display: block;
+  font-weight: 800;
+  font-size: 13px;
+  padding: 0;
+  margin: 0;
+}
+
+.timeline-item::after {
+  width: 12px;
+  height: 12px;
+  display: block;
+  top: 2.4em;
+  position: absolute;
+  left: -6px;
+  border-radius: 12px;
+  content: "";
+  background-color: #302ec5;
+}
+
+.history-items {
+  margin-bottom: 30px;
+}
+
 /*-------------------------Media Queries */
