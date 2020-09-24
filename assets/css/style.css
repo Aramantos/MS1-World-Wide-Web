@@ -123,8 +123,8 @@ footer p {
   color: #fafafa;
 }
 
-.social-links {
-  padding-bottom: 15px;
+.social-links a{
+  padding: 15px 0px;
 }
 
 /* Social Links styles & color change animation */
