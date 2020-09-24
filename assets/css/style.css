@@ -27,6 +27,7 @@ body {
 a {
   color: #fafafa;
   text-align: center;
+  padding: 0px 10px;
 }
 
 .underline {
@@ -69,6 +70,7 @@ a {
   position: relative;
   padding-top: 10px;
   letter-spacing: 1.2px;
+  vertical-align: sub;
 }
 
 .www-nav-items a:hover {
@@ -190,7 +192,7 @@ ul .intro-para {
 }
 
 .intro-para-first {
-  font-size: 300%;
+  font-size: 250%;
 }
 
 .intro-para-second {
@@ -230,11 +232,12 @@ section p {
 }
 
 #people-title {
-  margin-top: 25px;
+  margin: 25px 0px;
+  font-size: 180%;
 }
 
 section img {
-  object-fit: fill;
+  object-fit: cover;
 }
 
 .people-pic {
