@@ -26,7 +26,6 @@ body {
 
 a {
   color: #fafafa;
-  text-align: center;
   padding: 0px 10px;
 }
 
@@ -48,9 +47,20 @@ a {
 
 /*-------------------------Header */
 
+header{
+    padding: 5px;
+}
 .title {
   text-align: center;
   font-size: 150%;
+}
+
+nav{
+    background-color: rgba(27, 18, 155, 0.8);
+    margin: auto;
+    border-radius: 25px;
+    width: fit-content;
+    margin-bottom: 8px;
 }
 
 .www-nav {
@@ -91,10 +101,6 @@ a {
   margin: 0 !important;
 }
 
-.www-nav-items {
-  margin: 0px 10px;
-}
-
 /*-------------------------Footer */
 
 footer {
@@ -124,7 +130,7 @@ footer p {
 }
 
 .social-links a{
-  padding: 15px 0px;
+    padding: 0;
 }
 
 /* Social Links styles & color change animation */
@@ -315,10 +321,7 @@ section img {
 
 @media screen and (max-width: 970px) {
 
-  .www-nav-items {
-    margin: 0px 10px;
-  }
-
+  
   .intro-para {
     margin: 20px;
   }
@@ -383,6 +386,13 @@ section img {
   padding: 0;
 }
 
+}
+
+@media screen and (max-width: 575px) {
+
+nav{
+    text-align: left;
+    width: 100%;
 }
 
 @media screen and (max-width: 320px) {
