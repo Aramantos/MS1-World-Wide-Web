@@ -76,7 +76,6 @@ The UX is simple and user-friendly to provide an easy navigation through all pag
 *   Providing a more pleasing and easier to navigate site.
 *   The original site had quite a lot of information overload, one of the main focuses was to condense the text into a more readable layout
 *   Presenting photos of the people who were behind the development to give it a more human element.
-*   
 
 **2. Scope**
 
@@ -129,13 +128,13 @@ The image selection has been carefully considered to best showcase each reserve.
 
 ** **
 
-![alt_text](assets/images/home.png "image_tooltip")
+![alt_text](assets/images/wireframes/home.png "image_tooltip")
 
 
-![alt_text](assets/images/people.png "image_tooltip")
+![alt_text](assets/images/wireframes/people.png "image_tooltip")
 
 
-![alt_text](assets/images/history.png "image_tooltip")
+![alt_text](assets/images/wireframes/history.png "image_tooltip")
 
 
 **Features**
@@ -226,8 +225,8 @@ Refreshing the page removes the console error but will reappear eventually, erro
 
 **2. Integrations**
 
-*   [ Bootstrap](https://getbootstrap.com/) - by linking via[ BootstrapCDN](https://www.bootstrapcdn.com/) to HTML Doc.
-*    [FontAwesome](https://fontawesome.com/) Icons for Social Media links in Footer.
+*    [Bootstrap](https://getbootstrap.com/) - by linking via[ BootstrapCDN](https://www.bootstrapcdn.com/) to HTML Doc.
+*    [FontAwesome](https://fontawesome.com/) Icons for links in Footer.
 *    [Google Fonts](https://fonts.google.com/) - Overall Typography import.
 
 **3. Workspace, version control and Repository storage**
@@ -304,7 +303,7 @@ I have taken and modified snippets from the various projects I have completed by
 
 I would like to thank
 
-*   **Rohit Sharma **- My mentor for his guidance throughout the whole process
+*   **Rohit Sharma **- My mentor for his guidance throughout the whole process.
 *   **Jim Lynx **- for his continued support and guidance.
 *   **Bim Williams **- for his knowledge and reliable feedback.
 *   **Anthony O’Brien **- for his expertise in coding and beyond.
