@@ -199,7 +199,7 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 *   Footer columns overlapping at a smaller screen width
 *   People images displaying irregularly
 
-**Resolved**
+**Resolution**
 
 *   Footer columns \
 Added a &lt;br> on small screens.
@@ -207,11 +207,8 @@ Added a &lt;br> on small screens.
 Adding “object-fit: fill;” to the images allowed pictures to appear less distorted.
 *   Console Issue \
 The issue was from not having a favicon icon implemented, implemented the link and issue resolved.
-
-**Unresolved**
-
 *   Navbar spacing issue \
-Swapping the “d-none d-md-block” removed the spacing but stopped the other list-items/anchors from appearing in line.
+Implemented a dropdown menu to appear after the screen has reach 575px and below.
 
 **Technologies Used**
 
