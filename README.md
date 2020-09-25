@@ -59,37 +59,37 @@ Live Link -[ https://aramantos.github.io/TestProject/](https://aramantos.github.
 
 ** **
 
-For a product we use everyday I find there is a remarkable lack of knowledge about the history and foundation of how the world wide web started. This webpage is a stepping stone into not only educating people on its history but highlighting the people who created it.
+For a product we use every day I find there is a remarkable lack of knowledge about the history and foundation of how the world wide web started. This webpage is a stepping stone into not only educating people on its history but highlighting the people who created it.
 
 **1. Strategy**
 
-The UX is simple and user-friendly to provide an easy navigation through all pages on the site.
+The UX is simple and user-friendly to provide easy navigation through all pages on the site.
 
 **Project Goals:**
 
-*   Highlighting the progression of web design and internet applications since the first websites deployment.
+*   Highlighting the progression of web design and internet applications since the developmest of the first website.
 *   Showcasing the people behind the first website.
-*   Providing a brief history on how it all came to be.
+*   Providing a brief history of how it all came to be.
 
 **Customer Goals:**
 
-*   Providing a more pleasing and easier to navigate site.
+*   Providing a more pleasing and easier to navigate the site.
 *   The original site had quite a lot of information overload, one of the main focuses was to condense the text into a more readable layout
 *   Presenting photos of the people who were behind the development to give it a more human element.
 
 **2. Scope**
 
 *   Creating a fluid layout for ease of use.
-*   Implementing and fine tuning my own skills.
+*   Implementing and fine-tuning my skills.
 
 **3. Structure**
 
-I designed this page to create a more up to date and eye catching webpage based on the world's first page. The original page is just text based with no styling, my version takes modern internet protocols to allow for much more aesthetically pleasing visuals.
+I designed this page to create a more up to date and eye-catching webpage based on the world's first page. The original page is just text-based with no styling, my version takes modern internet protocols to allow for much more aesthetically pleasing visuals.
 
 **4. Skeleton**
 
 *   Wireframes: See page 4
-*   Fixed navigation bar -  5 page links & brand either side
+*   Fixed navigation bar -  5-page links & brand either side
 *   Home, People, History, FAQ and Original
 *   Footer with contact info, the original page & social media
 
@@ -97,7 +97,7 @@ I designed this page to create a more up to date and eye catching webpage based 
 
 **Images**
 
-Core of the webpage is the global connectivity image in the background.
+The core of the webpage is the global connectivity image in the background.
 
 **Colours**
 
@@ -118,9 +118,9 @@ The image selection has been carefully considered to best showcase each reserve.
 
 “When was the internet developed and how did it come to be?”
 
-“This site (cern) is not easy to digest”
+“This site (CERN) is not easy to digest”
 
-“The original sites layout and design is quite off putting”
+“The original sites layout and design is quite off-putting”
 
 “When was the internet developed and how did it come to be?”
 
@@ -144,7 +144,7 @@ The image selection has been carefully considered to best showcase each reserve.
 **Existing Features**
 
 *   Designed with HTML5, CSS3 and Bootstrap.
-*   3 separate html pages.
+*   3 separate HTML pages.
 *   Fixed navigation bar.
 *   Introduction section animation.
 
@@ -152,7 +152,7 @@ The image selection has been carefully considered to best showcase each reserve.
 
 *   Add more pages so that all information from the original site will be displayed.
 *   Adding more animations and transitions for a more visually pleasing site.
-*   There is alot of unused viusal real-estate on bigger screen, I would like to add more js connectivity and network visuals at a later date.
+*   There is a lot of unused visual real-estate on a bigger screen, I would like to add more js connectivity and network visuals at a later date.
 
 **Testing**
 
@@ -180,13 +180,13 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 *   Home, People, History all forward to correct pages.
 *   FAQ & Original open a new tab to correct page
-*   Brand icons forward to home page.
+*   Brand icons forward to the home page.
 *   Header stays fixed on multiple screens sizes and web browsers
 
 **Footer**
 
-*   Globe icon opens new tab to original webpage
-*   Social links open new tab to designated social media site
+*   Globe icon opens a new tab to the original webpage
+*   Social links open a new tab to the designated social media site
 
 **Bugs**
 
@@ -196,7 +196,7 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 *   Navbar spacing issue with blocked anchors
 *   Console error that intermittently appears 
-*   Footer columns overlapping at smaller screen width
+*   Footer columns overlapping at a smaller screen width
 *   People images displaying irregularly
 
 **Resolved**
@@ -211,7 +211,7 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
 *   Navbar spacing issue \
 Swapping the “d-none d-md-block” removed the spacing but stopped the other list-items/anchors from appearing in line.
 *   Console Issue \
-Refreshing the page removes the console error but will reappear eventually, error does not appear to cause any problems visually or with functionality.
+Refreshing the page removes the console error but will reappear eventually, the error does not appear to cause any problems visually or with functionality.
 
 **Technologies Used**
 
@@ -254,8 +254,8 @@ Refreshing the page removes the console error but will reappear eventually, erro
 
 ** **
 
-*   Initially the transition from following an instructional video to creating your own code was challenging but eventually that knowledge came to the forefront rather than having to refer back.
-*   I started this project with a desktop first approach and as the project went on I certainly realised the benefits of a mobile first approach.
+*   Initially, the transition from following an instructional video to creating your code was challenging but eventually that knowledge came to the forefront rather than having to refer back.
+*   I started this project with a desktop-first approach and as the project went on I certainly realised the benefits of a mobile-first approach.
 
 **Deployment**
 
@@ -264,12 +264,12 @@ Refreshing the page removes the console error but will reappear eventually, erro
 **GitHub**
 
 *   Under 'Source' drop-down, the 'Master branch' was selected.
-*   Once selected, this publishes the project to GitHub Pages and displays the site url.
+*   Once selected, this publishes the project to GitHub Pages and displays the site URL.
 
 **Local**
 
 *   You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
-*   The Clone option provides a url, which you can use on your desktop IDE.
+*   The Clone option provides a URL, which you can use on your desktop IDE.
 *   The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
 *   User needs to open the unzipped folder and open index.html for the homepage to populate.
 
@@ -297,7 +297,7 @@ I have taken and modified snippets from the various projects I have completed by
 *   Whiskey Drop
 *   Resume Project
 
-**Acknowledgments**
+**Acknowledgements**
 
 ** **
 
@@ -308,7 +308,7 @@ I would like to thank
 *   **Bim Williams **- for his knowledge and reliable feedback.
 *   **Anthony O’Brien **- for his expertise in coding and beyond.
 *   **CI staff** and **Slack Community** for round the clock reliability and helpfulness.
-*   **#In-It-Together** and **#Study-Group** channels have been an amazing resource and all round support group.
+*   **#In-It-Together** and **#Study-Group** channels have been an amazing resource and all-round support group.
 
 **Support**
 
