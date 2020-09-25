@@ -212,8 +212,7 @@ ul .intro-para {
 .intro-para-first,
 .intro-para-second,
 .intro-para-third {
-  margin-right: 10px;
-  margin-left: 10px;
+  margin: 20px;
   padding: 25px;
 }
 
@@ -427,6 +426,7 @@ nav{
     margin-left: 10px;
     padding: 25px;
   }
+  
   .history {
     margin: 0;
     width: 100%;
@@ -444,4 +444,5 @@ nav{
   h1 {
     font-size: 1.8rem;
   }
+
 }
