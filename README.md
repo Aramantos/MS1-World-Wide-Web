@@ -21,6 +21,7 @@ Conversion notes:
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
 
 ----->
+** **
 
 **<span style="text-decoration:underline;">World Wide Web Project</span>**
 
@@ -31,29 +32,34 @@ Live Link -[ https://aramantos.github.io/TestProject/](https://aramantos.github.
 
 ![alt_text](assets/images/responsive.png "image_tooltip")
 
+** **
 
 **Table of Contents**
 
 ** **
 
-*   Overview
-*   UX
-*   Wireframes
-*   Features
-*   Testing
-*   Technologies Used
-*   Resources
-*   Project barriers and the solutions
-*   Deployment
-*   Credits
-*   Acknowledgments
-*   Support
+*   [Overview](#overview)
+*   [UX](#ux)
+*   [Wireframes](#wireframes)
+*   [Features](#features)
+*   [Testing](#testing)
+*   [Technologies Used](#technologies-used)
+*   [Resources](#resources)
+*   [Project barriers and the solutions](#project-barriers-and-the-solutions)
+*   [Deployment](#deployment)
+*   [Credits](#credits)
+*   [Acknowledgements](#acknowledgements)
+*   [Support](#support)
+
+** **
 
 **Overview**
 
 ** **
 
 [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html) was the worlds first website and among the worlds least visited. The idea behind this webpage is to show how far web design has come since its creation and to pay homage to those who started it all.
+
+** **
 
 **UX**
 
@@ -124,6 +130,8 @@ The image selection has been carefully considered to best showcase each reserve.
 
 “When was the internet developed and how did it come to be?”
 
+** **
+
 **Wireframes**
 
 ** **
@@ -136,6 +144,8 @@ The image selection has been carefully considered to best showcase each reserve.
 
 ![alt_text](assets/images/wireframes/history.png "image_tooltip")
 
+
+** **
 
 **Features**
 
@@ -153,6 +163,8 @@ The image selection has been carefully considered to best showcase each reserve.
 *   Add more pages so that all information from the original site will be displayed.
 *   Adding more animations and transitions for a more visually pleasing site.
 *   There is a lot of unused visual real-estate on a bigger screen, I would like to add more js connectivity and network visuals at a later date.
+
+** **
 
 **Testing**
 
@@ -210,6 +222,8 @@ The issue was from not having a favicon icon implemented, implemented the link a
 *   Navbar spacing issue \
 Implemented a dropdown menu to appear after the screen has reach 575px and below.
 
+** **
+
 **Technologies Used**
 
 ** **
@@ -232,6 +246,8 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 *   [Git](https://git-scm.com/)  	 -	Distributed Version Control tool to store 							versions of files and track changes.
 *   [GitHub](https://github.com/) - 	A cloud-based hosting service to manage my 						**Git** repositories.
 
+** **
+
 **Resources**
 
 ** **
@@ -247,12 +263,16 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 *   Unicorn Revealer - Chrome Extension
 *   ColorZilla - Chrome Extension
 
+** **
+
 **Project barriers and solutions**
 
 ** **
 
 *   Initially, the transition from following an instructional video to creating your code was challenging but eventually that knowledge came to the forefront rather than having to refer back.
 *   I started this project with a desktop-first approach and as the project went on I certainly realised the benefits of a mobile-first approach.
+
+** **
 
 **Deployment**
 
@@ -269,6 +289,8 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 *   The Clone option provides a URL, which you can use on your desktop IDE.
 *   The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
 *   User needs to open the unzipped folder and open index.html for the homepage to populate.
+
+** **
 
 **Credits**
 
@@ -294,6 +316,8 @@ I have taken and modified snippets from the various projects I have completed by
 *   Whiskey Drop
 *   Resume Project
 
+** **
+
 **Acknowledgements**
 
 ** **
@@ -306,6 +330,8 @@ I would like to thank
 *   **Anthony O’Brien** - for his expertise in coding and beyond.
 *   **CI staff** and **Slack Community** for round the clock reliability and helpfulness.
 *   **#In-It-Together** and **#Study-Group** channels have been an amazing resource and all-round support group.
+
+** **
 
 **Support**
 
