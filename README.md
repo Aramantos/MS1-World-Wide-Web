@@ -53,7 +53,7 @@ Live Link -[ https://aramantos.github.io/MS1-World-Wide-Web/](https://aramantos.
 
 ** **
 
-**Overview** <a name=“overview”></a>
+#### **Overview**
 
 ** **
 
@@ -61,7 +61,7 @@ Live Link -[ https://aramantos.github.io/MS1-World-Wide-Web/](https://aramantos.
 
 ** **
 
-**UX** <a name=“ux”></a>
+#### **UX**
 
 ** **
 
@@ -132,7 +132,7 @@ The image selection has been carefully considered to best showcase each reserve.
 
 ** **
 
-**Wireframes** <a name=“wireframes”></a>
+#### **Wireframes**
 
 ** **
 
@@ -147,7 +147,7 @@ The image selection has been carefully considered to best showcase each reserve.
 
 ** **
 
-**Features**
+#### **Features**
 
 ** **
 
@@ -166,7 +166,7 @@ The image selection has been carefully considered to best showcase each reserve.
 
 ** **
 
-**Testing**
+#### **Testing**
 
 ** **
 
@@ -224,7 +224,7 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 
 ** **
 
-**Technologies Used** <a name=“technologies-used”></a>
+#### **Technologies Used**
 
 ** **
 
@@ -248,7 +248,7 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 
 ** **
 
-**Resources** <a name=“resources”></a>
+#### **Resources**
 
 ** **
 
@@ -265,7 +265,7 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 
 ** **
 
-**Project barriers and the solutions** <a name=“project-barriers-and-the-solutions”></a>
+#### **Project barriers and the solutions**
 
 ** **
 
@@ -274,7 +274,7 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 
 ** **
 
-**Deployment** <a name="deployment"></a>
+#### **Deployment**
 
 ** **
 
@@ -292,7 +292,7 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 
 ** **
 
-**Credits**
+#### **Credits**
 
 ** **
 
@@ -318,7 +318,7 @@ I have taken and modified snippets from the various projects I have completed by
 
 ** **
 
-**Acknowledgements** <a name="acknowledgements"></a>
+#### **Acknowledgements**
 
 ** **
 
@@ -333,7 +333,7 @@ I would like to thank
 
 ** **
 
-**Support** <<a name="support"></a>
+#### **Support**
 
 ** **
 
