@@ -299,7 +299,12 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 **Media**
 
 *   Site background image from[ educationworld.in](http://educationworld.in)
-*   People Images from various sites
+*   People Images from 
+    https://www.w3.org/People.html/
+    https://alchetron.com/cdn/eelco-van-asperen-0bfdb23d-6579-4990-8d0f-51a759e1c56-resize-750.jpg/
+    https://peoplepill.com/people/nicola-pellow/
+    https://qt.azureedge.net/resources/authors-images-large/robert-cailliau.jpg/
+    https://media.vanityfair.com/photos/5b351925384c1d5c5734bf99/master/w_2560%2Cc_limit/founder-of-the-web-08-2018-lede.jpg/
 *   Brand logo from[ favpng.com](http://favpng.com)
 
 **Content**
