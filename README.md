@@ -27,7 +27,7 @@ Conversion notes:
 
 ** **
 
-Live Link -[ https://aramantos.github.io/TestProject/](https://aramantos.github.io/MS1-World-Wide-Web/)
+Live Link -[ https://aramantos.github.io/MS1-World-Wide-Web/](https://aramantos.github.io/MS1-World-Wide-Web/)
 
 
 ![alt_text](assets/images/responsive.png "image_tooltip")
@@ -53,7 +53,7 @@ Live Link -[ https://aramantos.github.io/TestProject/](https://aramantos.github.
 
 ** **
 
-**Overview**
+**Overview** <a name=“overview”></a>
 
 ** **
 
@@ -61,7 +61,7 @@ Live Link -[ https://aramantos.github.io/TestProject/](https://aramantos.github.
 
 ** **
 
-**UX**
+**UX** <a name=“ux”></a>
 
 ** **
 
@@ -132,7 +132,7 @@ The image selection has been carefully considered to best showcase each reserve.
 
 ** **
 
-**Wireframes**
+**Wireframes** <a name=“wireframes”></a>
 
 ** **
 
@@ -224,7 +224,7 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 
 ** **
 
-**Technologies Used**
+**Technologies Used** <a name=“technologies-used”></a>
 
 ** **
 
@@ -248,7 +248,7 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 
 ** **
 
-**Resources**
+**Resources** <a name=“resources”></a>
 
 ** **
 
@@ -265,7 +265,7 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 
 ** **
 
-**Project barriers and solutions**
+**Project barriers and the solutions** <a name=“project-barriers-and-the-solutions”></a>
 
 ** **
 
@@ -274,7 +274,7 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 
 ** **
 
-**Deployment**
+**Deployment** <a name="deployment"></a>
 
 ** **
 
@@ -318,7 +318,7 @@ I have taken and modified snippets from the various projects I have completed by
 
 ** **
 
-**Acknowledgements**
+**Acknowledgements** <a name="acknowledgements"></a>
 
 ** **
 
@@ -333,7 +333,7 @@ I would like to thank
 
 ** **
 
-**Support**
+**Support** <<a name="support"></a>
 
 ** **
 
