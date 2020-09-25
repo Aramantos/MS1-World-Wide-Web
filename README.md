@@ -65,39 +65,39 @@ Live Link -[ https://aramantos.github.io/MS1-World-Wide-Web/](https://aramantos.
 
 ** **
 
-For a product we use every day I find there is a remarkable lack of knowledge about the history and foundation of how the world wide web started. This webpage is a stepping stone into not only educating people on its history but highlighting the people who created it.
+For a product we use every day I find there is a remarkable lack of knowledge about the history and foundation of how the world wide web started. This webpage seeks to educate people on wwws history and to highlight the people who created it.
 
 **1. Strategy**
 
-The UX is simple and user-friendly to provide easy navigation through all pages on the site.
+To ensure the UX is simple and user-friendly, by providing easy navigation through all pages on the site.
 
 **Project Goals:**
 
-*   Highlighting the progression of web design and internet applications since the developmest of the first website.
-*   Showcasing the people behind the first website.
-*   Providing a brief history of how it all came to be.
+*   To highlight the progression of web design and internet applications since the developmest of the first website.
+*   To showcase the people behind the first website.
+*   To provide a brief history of the developement of the world wide web.
 
 **Customer Goals:**
 
-*   Providing a more pleasing and easier to navigate the site.
-*   The original site had quite a lot of information overload, one of the main focuses was to condense the text into a more readable layout
-*   Presenting photos of the people who were behind the development to give it a more human element.
+*   Providing an easier to navigate more visaully pleasing site.
+*   Minimizing the risk of information overload, by condensing the text into a more readable layout
+*   To present photos of the people who were behind the development to give it a more human element.
 
 **2. Scope**
 
-*   Creating a fluid layout for ease of use.
-*   Implementing and fine-tuning my skills.
+*   To create a fluid layout for ease of use.
+*   Fine-tuning and implementing my skills.
 
 **3. Structure**
 
-I designed this page to create a more up to date and eye-catching webpage based on the world's first page. The original page is just text-based with no styling, my version takes modern internet protocols to allow for much more aesthetically pleasing visuals.
+I designed this page to create a more up to date and eye-catching webpage based on the world's first webpage. The original page is just text-based with no styling. My version utilizes modern internet protocols to create a more aesthetically pleasing visual.
 
 **4. Skeleton**
 
 *   Wireframes: See page 4
 *   Fixed navigation bar -  5-page links & brand either side
 *   Home, People, History, FAQ and Original
-*   Footer with contact info, the original page & social media
+*   Footer with contact info, the original page & social media links
 
 **5. Surface**
 
@@ -114,21 +114,13 @@ The background picture is the basis for the overall colour scheme.
 *   "Anton" font (san serif as backup) for header and footer
 *   "Titillium" font (san serif as backup) for all section content.
 
-**Images**
-
-The image selection has been carefully considered to best showcase each reserve.
-
 **User Stories**
+
+“When was the internet developed and how did it come to be?”
 
 “I have always wondered who was behind the development of the internet”
 
-“When was the internet developed and how did it come to be?”
-
-“This site (CERN) is not easy to digest”
-
-“The original sites layout and design is quite off-putting”
-
-“When was the internet developed and how did it come to be?”
+“This sites (CERN)layout and design is quite off-putting”
 
 ** **
 
@@ -162,17 +154,13 @@ The image selection has been carefully considered to best showcase each reserve.
 
 *   Add more pages so that all information from the original site will be displayed.
 *   Adding more animations and transitions for a more visually pleasing site.
-*   There is a lot of unused visual real-estate on a bigger screen, I would like to add more js connectivity and network visuals at a later date.
+*   To make use of the unused visual real-estate on a bigger screen, I will add more JS connectivity and network visuals at a later date.
 
 ** **
 
 #### **Testing**
 
 ** **
-
-Checked compatibility in Safari, Chrome, Firefox
-
-Give examples of tested devices on tools and real life
 
 **Screen Testing**
 
@@ -190,15 +178,15 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 **Header**
 
-*   Home, People, History all forward to correct pages.
-*   FAQ & Original open a new tab to correct page
-*   Brand icons forward to the home page.
-*   Header stays fixed on multiple screens sizes and web browsers
+*   Clicked Home, People, History to ensure being forwarded to correct pages.
+*   Clicked on FAQ & Original to ensure a new tab opened on correct page.
+*   Clicked brand icon forward to the home page.
+*   Ensure header stays fixed on multiple screens sizes and web browsers
 
 **Footer**
 
-*   Globe icon opens a new tab to the original webpage
-*   Social links open a new tab to the designated social media site
+*   Ensure globe icon opens a new tab to the original webpage
+*   Ensure social links open a new tab to the designated social media site
 
 **Bugs**
 
@@ -207,20 +195,21 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 **Found**
 
 *   Navbar spacing issue with blocked anchors
-*   Console error that intermittently appears 
+*   Console error that intermittently appears in developer tools
 *   Footer columns overlapping at a smaller screen width
 *   People images displaying irregularly
 
 **Resolution**
 
+*   Navbar spacing issue \
+Implemented a dropdown menu to appear after the screen has reach 575px and below.
+*   Console Issue \
+Caused by not having a favicon icon implemented; resolved by attached by attaching the favcion link.
 *   Footer columns \
 Added a &lt;br> on small screens.
 *   People images \
 Adding “object-fit: fill;” to the images allowed pictures to appear less distorted.
-*   Console Issue \
-The issue was from not having a favicon icon implemented, implemented the link and issue resolved.
-*   Navbar spacing issue \
-Implemented a dropdown menu to appear after the screen has reach 575px and below.
+
 
 ** **
 
@@ -269,7 +258,7 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 
 ** **
 
-*   Initially, the transition from following an instructional video to creating your code was challenging but eventually that knowledge came to the forefront rather than having to refer back.
+*   Initially, the transition from following an instructional video to creating your own code was challenging but eventually overcome by....
 *   I started this project with a desktop-first approach and as the project went on I certainly realised the benefits of a mobile-first approach.
 
 ** **
@@ -302,7 +291,7 @@ Implemented a dropdown menu to appear after the screen has reach 575px and below
 *   People Images 
     * https://www.w3.org/People.html/
     * https://alchetron.com/cdn/eelco-van-asperen-0bfdb23d-6579-4990-8d0f-51a759e1c56-resize-750.jpg/
-    * https://peoplepill.com/people/nicola-pellow/
+    * http://www.tech-heroines.org/2017/09/nicola-pellow.html
     * https://qt.azureedge.net/resources/authors-images-large/robert-cailliau.jpg/
     * https://media.vanityfair.com/photos/5b351925384c1d5c5734bf99/master/w_2560%2Cc_limit/founder-of-the-web-08-2018-lede.jpg/
 *   Brand logo from[ favpng.com](http://favpng.com)
