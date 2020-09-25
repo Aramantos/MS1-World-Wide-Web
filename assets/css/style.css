@@ -233,8 +233,9 @@ ul .intro-para {
   padding: 50px;
 }
 
-section p {
-  margin-top: 54px;
+.people-name {
+  margin-top: 60px;
+  font-size: 100%;
 }
 
 #people-title {
