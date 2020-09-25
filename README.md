@@ -205,13 +205,13 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 Added a &lt;br> on small screens.
 *   People images \
 Adding “object-fit: fill;” to the images allowed pictures to appear less distorted.
+*   Console Issue \
+The issue was from not having a favicon icon implemented, implemented the link and issue resolved.
 
 **Unresolved**
 
 *   Navbar spacing issue \
 Swapping the “d-none d-md-block” removed the spacing but stopped the other list-items/anchors from appearing in line.
-*   Console Issue \
-Refreshing the page removes the console error but will reappear eventually, the error does not appear to cause any problems visually or with functionality.
 
 **Technologies Used**
 
