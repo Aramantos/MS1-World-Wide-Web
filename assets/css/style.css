@@ -48,6 +48,10 @@ a {
 
 /*-------------------------Header */
 
+header{
+  padding: 5px;
+}
+
 .title {
   text-align: center;
   font-size: 150%;
@@ -55,10 +59,10 @@ a {
 
 nav{
   background-color: rgb(0, 87, 208);
-    margin: auto;
-    border-radius: 25px;
-    width: fit-content;
-    margin-bottom: 8px;
+  margin: auto;
+  border-radius: 25px;
+  width: fit-content;
+  margin-bottom: 8px;
 }
 
 .www-nav {
@@ -127,7 +131,7 @@ footer p {
 }
 
 .social-links a{
-    padding: 0;
+  padding: 0;
 }
 
 /* Social Links styles & color change animation */
@@ -355,6 +359,7 @@ section img {
   h1 {
     font-size: 1.8rem;
   }
+
 }
 
 @media screen and (max-width: 770px) {
@@ -372,16 +377,16 @@ section img {
   }
 
 .md-m-0 {
-  margin: 0;
-  padding: 0;
-}
+    margin: 0;
+    padding: 0;
+  }
 
 .intro-para-first,
 .intro-para-second,
 .intro-para-third {
-  margin: 40px 0px;
-  padding: 0;
-}
+    margin: 40px 0px;
+    padding: 0;
+  }
 
 }
 
@@ -390,6 +395,8 @@ section img {
 nav{
     text-align: left;
     width: 100%;
+  }
+
 }
 
 @media screen and (max-width: 320px) {
