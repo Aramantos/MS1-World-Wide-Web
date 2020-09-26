@@ -22,6 +22,7 @@
 
 body {
   font-family: "Anton", sans-serif;
+  color: rgba(34, 33, 33, 1);
 }
 
 a {
@@ -47,16 +48,13 @@ a {
 
 /*-------------------------Header */
 
-header{
-    padding: 5px;
-}
 .title {
   text-align: center;
   font-size: 150%;
 }
 
 nav{
-    background-color: rgba(27, 18, 155, 0.8);
+  background-color: rgb(0, 87, 208);
     margin: auto;
     border-radius: 25px;
     width: fit-content;
@@ -64,9 +62,9 @@ nav{
 }
 
 .www-nav {
-  color: #fff;
+  color: #fafafa;
   text-decoration: none;
-  background-color: rgba(27, 18, 155, 0.8);
+  background-color: rgb(0, 87, 208);
   width: 100%;
   text-align: center;
   border-radius: 25px;
@@ -74,7 +72,7 @@ nav{
 }
 
 .www-nav-items {
-  color: #fff;
+  color: #fafafa;
   text-decoration: none;
   font-size: 150%;
   position: relative;
@@ -84,7 +82,7 @@ nav{
 }
 
 .www-nav-items a:hover {
-  color: #b8b8b8;
+  color: #9ac4ff;
 }
 
 .active {
@@ -95,10 +93,6 @@ nav{
 .www-nav-items {
   margin: 0;
   padding: 0;
-}
-
-.navbar-brand {
-  margin: 0 !important;
 }
 
 /*-------------------------Footer */
@@ -115,7 +109,9 @@ footer p {
   font-size: 110%;
   color: #fafafa;
 }
-.cv-pdf i {
+
+/* globe icon color & color change animation */
+.globe-icon i {
   font-size: 18px;
   color: #fafafa;
   text-align: center;
@@ -126,8 +122,8 @@ footer p {
   -o-transition: all 0.35s ease-in-out;
 }
 
-.cv-pdf i:hover {
-  color: #fafafa;
+.globe-icon i:hover {
+  color: rgb(0, 87, 208);
 }
 
 .social-links a{
@@ -152,7 +148,7 @@ footer p {
 }
 
 .social-links li a i:hover {
-  background-color: #302ec5;
+  background-color: rgb(0, 87, 208);
 }
 
 #footer-details {
@@ -172,7 +168,6 @@ footer p {
 /* Intro paragraph styles and animation */
 .intro-para {
   text-align: center;
-  color: #000;
   background-color: rgba(255, 255, 255, 0.7);
   border: 5px;
   border-color: #000;
@@ -233,14 +228,15 @@ ul .intro-para {
   padding: 50px;
 }
 
-.people-name {
-  margin-top: 60px;
-  font-size: 100%;
-}
 
 #people-title {
   margin: 25px 0px;
   font-size: 180%;
+}
+
+.people-name {
+  margin-top: 60px;
+  font-size: 100%;
 }
 
 section img {
@@ -272,7 +268,7 @@ section img {
 }
 
 .history-heading {
-  color: #000000;
+  color: #2b2b2b;
   margin-bottom: 25px;
   font-size: 200%;
 }
@@ -280,7 +276,7 @@ section img {
 .timeline-item {
   padding: 4em 2em 0em 2em;
   position: relative;
-  color: #000000;
+  color: #2b2b2b;
   border-left: 1px solid;
 }
 
@@ -311,7 +307,7 @@ section img {
   left: -6px;
   border-radius: 12px;
   content: "";
-  background-color: #302ec5;
+  background-color: #0057d0;
 }
 
 .history-items {
