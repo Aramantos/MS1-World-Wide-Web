@@ -258,7 +258,7 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
 
 ** **
 
-*   Initially, the transition from following an instructional video to creating your own code was challenging but eventually overcome by perseverence and assistance from the slack community.
+*   Initially, the transition from following an instructional video to creating your own code was challenging but eventually overcome through perseverence and assistance from the slack community.
 *   I started this project with a desktop-first approach and as the project went on I certainly realised the benefits of a mobile-first approach.
 
 ** **
