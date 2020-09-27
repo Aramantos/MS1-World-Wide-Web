@@ -289,7 +289,7 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
 
 *   Site background image from[ educationworld.in](http://educationworld.in)
 *   People Images 
-    * https://www.w3.org/People.html/
+    * https://www.w3.org/People.html
     * https://alchetron.com/cdn/eelco-van-asperen-0bfdb23d-6579-4990-8d0f-51a759e1c56-resize-750.jpg/
     * http://www.tech-heroines.org/2017/09/nicola-pellow.html
     * https://qt.azureedge.net/resources/authors-images-large/robert-cailliau.jpg/
