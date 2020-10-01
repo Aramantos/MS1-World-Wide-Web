@@ -147,7 +147,7 @@ The background picture is the basis for the overall colour scheme.
 **Existing Features**
 
 *   Designed with HTML5, CSS3 and Bootstrap.
-*   3 separate HTML pages.
+*   4 separate HTML pages.
 *   Fixed navigation bar.
 *   Introduction section animation.
 
@@ -179,8 +179,8 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 **Header**
 
-*   Clicked Home, People, History to ensure being forwarded to correct pages.
-*   Clicked on FAQ & Original to ensure a new tab opened on correct page.
+*   Clicked Home, People, History, FAQ to ensure being forwarded to correct pages.
+*   Clicked on Original to ensure a new tab opened on correct page.
 *   Clicked brand icon forward to the home page.
 *   Ensure header stays fixed on multiple screens sizes and web browsers
 
@@ -295,11 +295,11 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
     * http://www.tech-heroines.org/2017/09/nicola-pellow.html
     * https://qt.azureedge.net/resources/authors-images-large/robert-cailliau.jpg/
     * https://media.vanityfair.com/photos/5b351925384c1d5c5734bf99/master/w_2560%2Cc_limit/founder-of-the-web-08-2018-lede.jpg/
-*   Brand logo from[ favpng.com](http://favpng.com)
+    * Brand logo from[favpng.com](http://favpng.com)
 
 **Content**
 
-*   All text on history has been lifted from the original site.
+*   All text on History and FAQ has been lifted from the original site.
 
 	[http://info.cern.ch/hypertext/WWW/History.html](http://info.cern.ch/hypertext/WWW/History.html) 
 
@@ -319,7 +319,8 @@ I have taken and modified snippets from the various projects I have completed by
 
 I would like to thank
 
-*   **Rohit Sharma** - My mentor for his guidance throughout the whole process.
+*   **Guido Cecilio** - His attitude and knowledge give me something I can aspire to.
+*   **Rohit Sharma** - for his guidance throughout the whole process.
 *   **Jim Lyn** - for his continued support and guidance.
 *   **Bim Williams** - for his knowledge and reliable feedback.
 *   **Anthony O’Brien** - for his expertise in coding and beyond.
