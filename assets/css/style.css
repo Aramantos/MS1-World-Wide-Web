@@ -318,6 +318,31 @@ section img {
   margin-bottom: 30px;
 }
 
+/*-------------------------FAQ */
+
+.faq {
+  font-family: "Titillium", sans-serif;
+  letter-spacing: 1.5px;
+  text-align: center;
+  font-size: 110%;
+  color: #2b2b2b;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 5px;
+  border-color: #000;
+  margin: 50px 150px;
+  list-style: none;
+  padding: 50px;
+}
+
+.faq-heading {
+  color: #2b2b2b;
+  margin-bottom: 25px;
+  font-size: 200%;
+}
+
+.faq-items {
+  margin-bottom: 30px;
+}
 /*-------------------------Media Queries */
 
 @media screen and (max-width: 970px) {
