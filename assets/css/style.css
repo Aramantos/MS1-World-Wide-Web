@@ -340,8 +340,28 @@ section img {
   font-size: 200%;
 }
 
+.faq-sub-heading{
+    font-size: 150%;
+    margin: 25px 0px;
+}
+
 .faq-items {
   margin-bottom: 30px;
+}
+
+.faq-para{
+    text-align: left;
+    margin: 20px 0px;
+}
+
+.faq-para-list{
+    text-align: left;
+    margin: 5px 0px;
+}
+
+.faq-date{
+    font-style: italic;
+    margin-top: -30px;
 }
 /*-------------------------Media Queries */
 
@@ -379,6 +399,11 @@ section img {
 
   #people-title {
     margin-top: 50px;
+  }
+
+  .faq {
+    margin: 0;
+    width: 100%;
   }
 
   h1 {
@@ -468,6 +493,11 @@ nav{
 
   #people-title {
     margin-top: 50px;
+  }
+
+  .faq {
+    margin: 0;
+    width: 100%;
   }
 
   h1 {
