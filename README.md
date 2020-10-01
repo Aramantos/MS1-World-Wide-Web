@@ -136,6 +136,7 @@ The background picture is the basis for the overall colour scheme.
 
 ![alt_text](assets/images/wireframes/history.png "image_tooltip")
 
+
 ![alt_text](assets/images/wireframes/faq.png "image_tooltip")
 
 ** **
