@@ -151,6 +151,7 @@ The background picture is the basis for the overall colour scheme.
 *   4 separate HTML pages.
 *   Fixed navigation bar.
 *   Introduction section animation.
+*   Toggleable buttons to reveal and collapse content.
 
 **Features Left to Implement when skills develop**
 
@@ -189,6 +190,11 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 *   Ensure globe icon opens a new tab to the original webpage
 *   Ensure social links open a new tab to the designated social media site
+
+**Buttons**
+
+*   Navbar button replaces anchors on smaller screens and when pressed a dropdown menu allows for further navigation.
+*   FAQ accordion buttons all correctly drop down and collapse when clicked. 
 
 **Bugs**
 
