@@ -36,7 +36,7 @@ a {
 
 .background {
   background: url("../images/internet.jpeg") no-repeat no-repeat center center;
-/* CREDIT: Image: https://www.educationworld.in/30th-anniversary-of-the-world-wide-web-or-www/ */
+  /* CREDIT: Image: https://www.educationworld.in/30th-anniversary-of-the-world-wide-web-or-www/ */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -48,7 +48,7 @@ a {
 
 /*-------------------------Header */
 
-header{
+header {
   padding: 5px;
 }
 
@@ -57,7 +57,7 @@ header{
   font-size: 150%;
 }
 
-nav{
+nav {
   background-color: rgb(0, 87, 208);
   margin: auto;
   border-radius: 25px;
@@ -130,7 +130,7 @@ footer p {
   color: rgb(0, 87, 208);
 }
 
-.social-links a{
+.social-links a {
   padding: 0;
 }
 
@@ -232,7 +232,6 @@ ul .intro-para {
   padding: 50px;
 }
 
-
 #people-title {
   margin: 25px 0px;
   font-size: 180%;
@@ -329,45 +328,58 @@ section img {
   background-color: rgba(255, 255, 255, 0.7);
   border: 5px;
   border-color: #000;
-  margin: 50px 150px;
+  margin: 50px 50px;
   list-style: none;
-  padding: 50px;
 }
 
 .faq-heading {
   color: #2b2b2b;
-  margin-bottom: 25px;
+  padding: 20px 0 0;
   font-size: 200%;
+  margin: 0;
 }
 
-.faq-sub-heading{
-    font-size: 150%;
-    margin: 25px 0px;
+.faq-sub-heading {
+  font-size: 150%;
+  margin: 25px 0px;
 }
 
-.faq-items {
-  margin-bottom: 30px;
+#faq-intro-para{
+  padding: 0 20px;
 }
 
-.faq-para{
-    text-align: left;
-    margin: 20px 0px;
+.faq-para {
+  text-align: center;
+  margin: 20px 0px;
+  padding: 0 50px;
 }
 
-.faq-para-list{
-    text-align: left;
-    margin: 5px 0px;
+#faq-date {
+  font-style: italic;
 }
 
-.faq-date{
-    font-style: italic;
-    margin-top: -30px;
+.btn {
+  font-size: 20px;
+  color: #fafafa;
+  background-color: rgb(0, 87, 208);
+  border-radius: 25px;
+  text-align: center;
 }
+
+.btn:hover {
+  color: #ffffff;    
+  text-decoration: none;
+}
+
+.card-body{
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.7);
+
+}
+
 /*-------------------------Media Queries */
 
 @media screen and (max-width: 970px) {
-
-  
   .intro-para {
     margin: 20px;
   }
@@ -409,11 +421,10 @@ section img {
   h1 {
     font-size: 1.8rem;
   }
-
 }
 
 @media screen and (max-width: 770px) {
-
+  
   footer {
     margin: 0px 50px;
   }
@@ -426,31 +437,34 @@ section img {
     margin: 0;
   }
 
-.md-m-0 {
-    margin: 0;
-    padding: 0;
-  }
-
-.intro-para-first,
-.intro-para-second,
-.intro-para-third {
+  .intro-para-first,
+  .intro-para-second,
+  .intro-para-third {
     margin: 40px 0px;
     padding: 0;
   }
 
+  .faq{
+      margin: 0;
+  }
+
+  #faq-intro-para{
+      padding: 0 15px;
+  }
+
+  .faq-para{
+      padding: 0 10px;
+  }
 }
 
 @media screen and (max-width: 575px) {
-
-nav{
+  nav {
     text-align: left;
     width: 100%;
   }
-
 }
 
 @media screen and (max-width: 320px) {
-
   .navbar-brand,
   .www-nav-items,
   .list-inline-item,
@@ -503,5 +517,4 @@ nav{
   h1 {
     font-size: 1.8rem;
   }
-
 }
