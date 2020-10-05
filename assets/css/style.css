@@ -378,12 +378,16 @@ section img {
   text-decoration: none;
 }
 
+.card{
+    background-color: transparent;
+}
+
 .card-body{
   padding: 10px;
 }
 
 .card-header,.card-body{
-    background-color: #dfdfdf;
+    background-color: transparent;
 }
 
 /*-------------------------Media Queries */
