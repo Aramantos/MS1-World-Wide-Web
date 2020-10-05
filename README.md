@@ -327,7 +327,7 @@ I have taken and modified snippets from the various projects I have completed by
 I would like to thank
 
 *   **Guido Cecilio** - His attitude and knowledge give me something I can aspire to.
-*   **Rohit Sharma** - for his guidance throughout the whole process.
+*   **Rohit Sharma** - for his guidance throughout the process.
 *   **Jim Lyn** - for his continued support and guidance.
 *   **Bim Williams** - for his knowledge and reliable feedback.
 *   **Anthony O’Brien** - for his expertise in coding and beyond.
