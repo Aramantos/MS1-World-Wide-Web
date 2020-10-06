@@ -23,16 +23,19 @@
 body {
   font-family: "Anton", sans-serif;
   color: rgba(34, 33, 33, 1);
+  font-weight: 120%;
 }
 
 h1{
-  font-size: 3.5rem;
+  font-size: 3rem;
+  letter-spacing: 2px;
 }
 
 a {
   color: #fafafa;
   padding: 0px 25px;
-  font-size: 180%;
+  font-size: 150%;
+  letter-spacing: 5px;
 }
 
 .underline {
@@ -114,10 +117,17 @@ nav {
 
 footer {
   color: #fafafa;
+  font-size: 120%;
+  letter-spacing: 1px;
   min-height: 120px;
   margin: 0;
   text-align: center;
   margin-top: 20px;
+}
+
+.footer-heading{
+  font-size: 140%;
+  letter-spacing: 1px;
 }
 
 footer p {
@@ -125,12 +135,16 @@ footer p {
   color: #fafafa;
 }
 
+#globe-icon{
+    padding: 0;
+}
+
 /* globe icon color & color change animation */
-.globe-icon i {
-  font-size: 18px;
+#globe-icon i {
+  font-size: 25px;
   color: #fafafa;
   text-align: center;
-  padding-left: 5px;
+  padding: 0;
   transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
   -webkit-transition: all 0.35s ease-in-out;
@@ -147,11 +161,11 @@ footer p {
 
 /* Social Links styles & color change animation */
 .social-links li a i {
-  width: 32px;
-  height: 32px;
-  padding: 12px 0;
+  width: 35px;
+  height: 35px;
+  padding: 14px 0px 0px 5px;
   border-radius: 50%;
-  font-size: 13px;
+  font-size: 24px;
   line-height: 7px;
   text-align: center;
   color: #fafafa;
@@ -336,9 +350,10 @@ section img {
 
 .faq {
   font-family: "Titillium", sans-serif;
+  font-size: 125%;
+  font-weight: 500;
   letter-spacing: 1.5px;
   text-align: center;
-  font-size: 110%;
   color: #2b2b2b;
   background-color: rgba(255, 255, 255, 0.7);
   border: 5px;
@@ -377,7 +392,7 @@ section img {
 }
 
 .btn {
-  font-size: 20px;
+  font-size: 25px;
   color: #fafafa;
   background-color: rgb(0, 87, 208);
   border-radius: 25px;
@@ -386,7 +401,7 @@ section img {
 
 .btn:hover {
   color: #fafafa;    
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .card{
@@ -398,7 +413,7 @@ section img {
 }
 
 .card-header,.card-body{
-    background-color: transparent;
+  background-color: rgba(255, 255, 255, 0.71);
 }
 
 /*-------------------------Media Queries */
