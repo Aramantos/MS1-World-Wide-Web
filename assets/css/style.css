@@ -33,7 +33,7 @@ h1{
 
 a {
   color: #fafafa;
-  padding: 0px 25px;
+  padding: 0px 20px;
   font-size: 150%;
   letter-spacing: 5px;
 }
@@ -127,12 +127,16 @@ footer {
 
 .footer-heading{
   font-size: 140%;
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
 }
 
 footer p {
   font-size: 110%;
   color: #fafafa;
+}
+
+#email{
+    margin: 0;
 }
 
 #globe-icon{
@@ -161,11 +165,11 @@ footer p {
 
 /* Social Links styles & color change animation */
 .social-links li a i {
-  width: 35px;
-  height: 35px;
-  padding: 14px 0px 0px 5px;
-  border-radius: 50%;
-  font-size: 24px;
+  width: 30px;
+  height: 30px;
+  padding: 13px 0px 0px 3px;
+  border-radius: 25px;
+  font-size: 20px;
   line-height: 7px;
   text-align: center;
   color: #fafafa;
@@ -425,7 +429,7 @@ section img {
   }
 
   a{
-    padding: 0px 15px;
+    padding: 0px 10px;
     font-size: 125%;
   }
 
@@ -480,6 +484,7 @@ section img {
   
   a{
     padding: 0px 5px;
+    letter-spacing: 2px;
   }
 
   footer {
