@@ -1,26 +1,3 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 3.383 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Thu Sep 24 2020 10:21:53 GMT-0700 (PDT)
-* Source doc: World Wide Web Project
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
 ** **
 
 **<span style="text-decoration:underline;">World Wide Web Project</span>**
@@ -34,7 +11,7 @@ Live Link -[ https://aramantos.github.io/MS1-World-Wide-Web/](https://aramantos.
 
 ** **
 
-**Table of Contents**
+#### **Table of Contents**
 
 ** **
 
@@ -124,6 +101,10 @@ The background picture is the basis for the overall colour scheme.
 
 ** **
 
+[Back to top](#table-of-contents)
+
+** **
+
 #### **Wireframes**
 
 ** **
@@ -138,6 +119,10 @@ The background picture is the basis for the overall colour scheme.
 
 
 ![alt_text](assets/images/wireframes/faq.png "image_tooltip")
+
+** **
+
+[Back to top](#table-of-contents)
 
 ** **
 
@@ -158,6 +143,10 @@ The background picture is the basis for the overall colour scheme.
 *   Add more pages so that all information from the original site will be displayed.
 *   Adding more animations and transitions for a more visually pleasing site.
 *   To make use of the unused visual real-estate on a bigger screen, I will add more JS connectivity and network visuals at a later date.
+
+** **
+
+[Back to top](#table-of-contents)
 
 ** **
 
@@ -218,6 +207,9 @@ Added a &lt;br> on small screens.
 *   People images \
 Adding “object-fit: fill;” to the images allowed pictures to appear less distorted.
 
+** **
+
+[Back to top](#table-of-contents)
 
 ** **
 
@@ -245,6 +237,14 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
 
 ** **
 
+[Back to top](#table-of-contents)
+
+** **
+
+[Back to top](#table-of-contents)
+
+** **
+
 #### **Resources**
 
 ** **
@@ -262,12 +262,20 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
 
 ** **
 
+[Back to top](#table-of-contents)
+
+** **
+
 #### **Project barriers and the solutions**
 
 ** **
 
 *   Initially, the transition from following an instructional video to creating your own code was challenging but eventually overcome through perseverence and assistance from the slack community.
 *   I started this project with a desktop-first approach and as the project went on I certainly realised the benefits of a mobile-first approach.
+
+** **
+
+[Back to top](#table-of-contents)
 
 ** **
 
@@ -286,6 +294,10 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
 *   The Clone option provides a URL, which you can use on your desktop IDE.
 *   The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
 *   User needs to open the unzipped folder and open index.html for the homepage to populate.
+
+** **
+
+[Back to top](#table-of-contents)
 
 ** **
 
@@ -317,6 +329,10 @@ I have taken and modified snippets from the various projects I have completed by
 *   Love Running
 *   Whiskey Drop
 *   Resume Project
+
+** **
+
+[Back to top](#table-of-contents)
 
 ** **
 
