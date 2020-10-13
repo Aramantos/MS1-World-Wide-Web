@@ -165,10 +165,10 @@ footer p {
 
 /* Social Links styles & color change animation */
 .social-links li a i {
-  width: 30px;
-  height: 30px;
-  padding: 13px 0px 0px 3px;
-  border-radius: 25px;
+  width: 32px;
+  height: 32px;
+  padding: 13px 8px;
+  border-radius: 50%;
   font-size: 20px;
   line-height: 7px;
   text-align: center;

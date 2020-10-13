@@ -4,7 +4,7 @@
 
 ** **
 
-Live Link -[ https://aramantos.github.io/MS1-World-Wide-Web/](https://aramantos.github.io/MS1-World-Wide-Web/)
+Live Link -[https://aramantos.github.io/MS1-World-Wide-Web/](https://aramantos.github.io/MS1-World-Wide-Web/)
 
 
 ![alt_text](assets/images/responsive.png "image_tooltip")
@@ -42,7 +42,7 @@ Live Link -[ https://aramantos.github.io/MS1-World-Wide-Web/](https://aramantos.
 
 ** **
 
-For a product we use every day I find there is a remarkable lack of knowledge about the history and foundation of how the world wide web started. This webpage seeks to educate people on wwws history and to highlight the people who created it.
+For a product we use every day I find there is a remarkable lack of knowledge about the history and foundation of how the world wide web started. This webpage seeks to educate people on the world wide webs history and to highlight the people who created it.
 
 **1. Strategy**
 
@@ -50,13 +50,13 @@ To ensure the UX is simple and user-friendly, by providing easy navigation throu
 
 **Project Goals:**
 
-*   To highlight the progression of web design and internet applications since the developmest of the first website.
+*   To highlight the progression of web design and internet applications since the development of the first website.
 *   To showcase the people behind the first website.
-*   To provide a brief history of the developement of the world wide web.
+*   To provide a brief history of the development of the world wide web.
 
 **Customer Goals:**
 
-*   Providing an easier to navigate more visaully pleasing site.
+*   Providing an easier to navigate the more visually pleasing site.
 *   Minimizing the risk of information overload, by condensing the text into a more readable layout
 *   To present photos of the people who were behind the development to give it a more human element.
 
@@ -95,13 +95,19 @@ The background picture is the basis for the overall colour scheme.
 
 “When was the internet developed and how did it come to be?”
 
-“I have always wondered who was behind the development of the internet”
+“I have always wondered who was behind the development of the internet.”
 
-“This sites (CERN)layout and design is quite off-putting”
+“This sites(CERN) layout and design are quite off-putting, I wish it was more engaging.”
+
+**Developer Stories**
+
+"As a developer in training, I have a newfound apprecation for the development process and wanted to highlight the efforts and the people who made the internet possible."
+
+"I believe most developers look back on the CERN site to see how far the field of web design has progressed. I decided to create this website to have a connection to where it all started."
 
 ** **
 
-[Back to top](#table-of-contents)
+[Return to Table of Contents](#table-of-contents)
 
 ** **
 
@@ -122,7 +128,7 @@ The background picture is the basis for the overall colour scheme.
 
 ** **
 
-[Back to top](#table-of-contents)
+[Return to Table of Contents](#table-of-contents)
 
 ** **
 
@@ -141,12 +147,13 @@ The background picture is the basis for the overall colour scheme.
 **Features Left to Implement when skills develop**
 
 *   Add more pages so that all information from the original site will be displayed.
+*   When clicked the pictures on people.html would produce a speech bubble with information about the subject.
 *   Adding more animations and transitions for a more visually pleasing site.
 *   To make use of the unused visual real-estate on a bigger screen, I will add more JS connectivity and network visuals at a later date.
 
 ** **
 
-[Back to top](#table-of-contents)
+[Return to Table of Contents](#table-of-contents)
 
 ** **
 
@@ -162,15 +169,23 @@ Google Chrome Developer Tools - Device frames tests
 
 Moto G4, Galaxy S5, Pixel 2, Pixel 2 XL, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro, Surface Duo, Galaxy Fold
 
+I have tested the website on various devices (iPhone XR, iPad Air, HTC One, Samsung Galaxy S7)
+
 **Validator**
 
 HTML -[ W3C](https://validator.w3.org/) - Markup Validation
 
 CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
+**Defensive Design**
+
+*   Ensuring all target="_blank" links are accompanied by rel="noreferrer".
+*   Designing the site to be comfortably navigated without having to use the back button in the browser interface.
+*   Giving users the expected functionality of the brand logo in the navbar navigating back to the homepage.
+
 **Header**
 
-*   Clicked Home, People, History, FAQ to ensure being forwarded to correct pages.
+*   Clicked Home, People, History, FAQ to ensure being forwarded to the correct pages.
 *   Clicked on Original to ensure a new tab opened on correct page.
 *   Clicked brand icon forward to the home page.
 *   Ensure header stays fixed on multiple screens sizes and web browsers
@@ -201,15 +216,20 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 *   Navbar spacing issue \
 Implemented a dropdown menu to appear after the screen has reach 575px and below.
 *   Console Issue \
-Caused by not having a favicon icon implemented; resolved by attached by attaching the favcion link.
+Caused by not having a favicon icon implemented; resolved by attached by attaching the favicon link.
 *   Footer columns \
 Added a &lt;br> on small screens.
 *   People images \
 Adding “object-fit: fill;” to the images allowed pictures to appear less distorted.
 
+**Unresolved**
+
+*   Phone Number
+When viewing the Contact section in the footer the numbers appear much larger than expected on my iPad.
+
 ** **
 
-[Back to top](#table-of-contents)
+[Return to Table of Contents](#table-of-contents)
 
 ** **
 
@@ -237,11 +257,7 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
 
 ** **
 
-[Back to top](#table-of-contents)
-
-** **
-
-[Back to top](#table-of-contents)
+[Return to Table of Contents](#table-of-contents)
 
 ** **
 
@@ -262,7 +278,7 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
 
 ** **
 
-[Back to top](#table-of-contents)
+[Return to Table of Contents](#table-of-contents)
 
 ** **
 
@@ -270,12 +286,12 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
 
 ** **
 
-*   Initially, the transition from following an instructional video to creating your own code was challenging but eventually overcome through perseverence and assistance from the slack community.
+*   Initially, the transition from following an instructional video to creating your own code was challenging but eventually overcome through perseverance and assistance from the slack community.
 *   I started this project with a desktop-first approach and as the project went on I certainly realised the benefits of a mobile-first approach.
 
 ** **
 
-[Back to top](#table-of-contents)
+[Return to Table of Contents](#table-of-contents)
 
 ** **
 
@@ -283,21 +299,25 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
 
 ** **
 
+GitPod was used to write all code in this repository and pushed via Git to GitHub.
+
 **GitHub**
 
-*   Under 'Source' drop-down, the 'Master branch' was selected.
-*   Once selected, this publishes the project to GitHub Pages and displays the site URL.
+*   When viewable HTML files have been pushed to GitHub, select 'Settings' the last item in the repository navbar. 
+*   Under 'Github Pages' and 'Source' there should be a drop-down menu with 'None' selected by default.
+*   After you press the drop-down menu and select 'master', then press save.
+*   Once saved, this will shortly publish the project to GitHub Pages and the site URL will be available in the 'GitHub Pages' in 'Settings'.
 
-**Local**
+**Local Download/Clone**
 
-*   You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
+*   You can do this by opening the repository, clicking on the 'Code' button with the download icon and selecting either 'clone or download'.
 *   The Clone option provides a URL, which you can use on your desktop IDE.
 *   The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
 *   User needs to open the unzipped folder and open index.html for the homepage to populate.
 
 ** **
 
-[Back to top](#table-of-contents)
+[Return to Table of Contents](#table-of-contents)
 
 ** **
 
@@ -332,7 +352,7 @@ I have taken and modified snippets from the various projects I have completed by
 
 ** **
 
-[Back to top](#table-of-contents)
+[Return to Table of Contents](#table-of-contents)
 
 ** **
 
