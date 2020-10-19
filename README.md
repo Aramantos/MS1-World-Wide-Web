@@ -4,7 +4,7 @@
 
 ** **
 
-Live Link -[https://aramantos.github.io/MS1-World-Wide-Web/](https://aramantos.github.io/MS1-World-Wide-Web/)
+Live Link - [https://aramantos.github.io/MS1-World-Wide-Web/](https://aramantos.github.io/MS1-World-Wide-Web/)
 
 
 ![alt_text](assets/images/responsive.png "image_tooltip")
@@ -200,6 +200,8 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 *   Navbar button replaces anchors on smaller screens and when pressed a dropdown menu allows for further navigation.
 *   FAQ accordion buttons all correctly drop down and collapse when clicked. 
 
+** **
+
 **Bugs**
 
 ** **
@@ -224,8 +226,7 @@ Adding “object-fit: fill;” to the images allowed pictures to appear less dis
 
 **Unresolved**
 
-*   Phone Number
-When viewing the Contact section in the footer the numbers appear much larger than expected on my iPad.
+*   When being viewed on an iPad, the mobile number in the contact section appears much larger then expected.
 
 ** **
 
@@ -362,11 +363,11 @@ I have taken and modified snippets from the various projects I have completed by
 
 I would like to thank
 
-*   **Guido Cecilio** - His attitude and knowledge give me something I can aspire to.
-*   **Rohit Sharma** - for his guidance throughout the process.
-*   **Jim Lyn** - for his continued support and guidance.
-*   **Bim Williams** - for his knowledge and reliable feedback.
-*   **Anthony O’Brien** - for his expertise in coding and beyond.
+*   **Guido Cecilio** - My mentor for his time and guidance.
+*   **Rohit Sharma** - For his advice and instruction.
+*   **Jim Lyn** - For his continued support and assistance.
+*   **Bim Williams** - For his knowledge and reliable feedback.
+*   **Anthony O’Brien** - For his expertise in the industry.
 *   **CI staff** and **Slack Community** for round the clock reliability and helpfulness.
 *   **#In-It-Together** and **#Study-Group** channels have been an amazing resource and all-round support group.
 
